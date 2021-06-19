@@ -1,0 +1,74 @@
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+.inner{
+    width: 35%;
+    height: auto ;
+    background-color: white;
+    border: none;
+    border-radius: 3%;
+    -webkit-box-shadow: 17px 19px 29px -22px rgba(0,0,0,0.31);
+-moz-box-shadow: 17px 19px 29px -22px rgba(0,0,0,0.31);
+box-shadow: 17px 19px 29px -22px rgba(0,0,0,0.31);
+
+}
+.book{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.bk{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.form-group{
+    display: flex;
+    justify-content: center;
+    height:40px;
+    width:100%;
+}
+.hello2{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.btn-primary{
+    color: white;
+    background-color: #00CCFF;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 3%;
+    border: none;
+    height: 2%;
+    width: 40%;
+}
+#btn1{
+    padding: 8px;
+    background-color: white;
+    color: #00CCFF;
+    border-color: #00CCFF;
+    border-radius: 12px;
+}
+#btn2{
+    padding: 8px;
+    background-color: white;
+    color: #00CCFF;
+    border-color: #00CCFF;
+    margin-left: 10px;
+    border-radius: 12px;
+}
+#btn2:hover{
+    padding: 8px;
+    background-color:#00CCFF;
+    color: white;
+    font-weight: bolder;
+}
+#btn1:hover{
+    padding: 8px;
+    background-color:#00CCFF;
+    color: white;
+    font-weight: bolder;
+}
